@@ -1,6 +1,6 @@
 # 📝 Projeto
 
-**Projeto desenvolvido por Ailton Mazullo**
+**Projeto desenvolvido por Ailton Mazullo como parte do processo seletivo da even3**
 
 ## 🚀 Como rodar
 
