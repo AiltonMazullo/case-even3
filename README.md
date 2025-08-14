@@ -6,7 +6,7 @@
 
 ```bash
 # Clone o repositório
-git clone [URL_DO_REPOSITORIO]
+git clone https://github.com/AiltonMazullo/case-even3
 cd Even3
 
 # Para rodar os exercícios de lógica:
